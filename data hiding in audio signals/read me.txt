@@ -1,0 +1,4 @@
+this file contains, sample audios and sample images for the code
+and 2 codes (datahide.m and extract data.m) which are soulutions of the code
+and also we have built simulink versions of the codes esla.slx done using matlab block
+and the documentian named after the members
